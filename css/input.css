@@ -3,6 +3,10 @@
 @tailwind utilities;
 
 
+*{
+  border: 1px solid red;
+}
+
 /* latin-ext */
 @font-face {
     font-family: 'Poppins';
